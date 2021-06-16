@@ -1,0 +1,6 @@
+### maven ###
+target/
+
+### Eclipse ###
+/.project
+/.settings/
